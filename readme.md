@@ -1,6 +1,6 @@
 # Model Quantization & Inference Optimization
 
-A hands-on experiment exploring **model quantization, memory reduction, accuracy impact, and inference performance** using `facebook/bart-large-mnli` for zero-shot classification.
+exploring **model quantization, memory reduction, accuracy impact, and inference performance** using `facebook/bart-large-mnli` for zero-shot classification.
 
 ## Model
 
